@@ -2,11 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Get an api key from moralis, google it and fill it in .env
+
+Install dependency and run the development server:
 
 ```bash
-npm run dev
-# or
+yarn install
+
 yarn dev
 ```
 
